@@ -1,0 +1,32 @@
+
+.container {
+   display: grid;
+   justify-content: space-evenly;
+   background-image: url(/picture.jpg);
+   
+   grid-template-columns: 50 50 50;
+}
+h1 {
+   color: #ffff;
+}
+#valueFriends {
+    
+    font-size: 5rem;
+    color: red;
+    text-align: center;
+}
+#increment-btn {
+   width: 5rem;
+   height: 3rem;
+}
+#clean-btn {
+   width: 5rem;
+   height: 3rem;
+}
+#save-btn {
+   width: 5rem;
+   height: 3rem;
+}
+#saveEl {
+   color: #ffff;
+}
